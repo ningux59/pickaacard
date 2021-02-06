@@ -7,7 +7,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
  *
- * @author Ronak
+ * @author Student Number:991624189 Name:Ningxin Gu
  */
 public class Card {
 
