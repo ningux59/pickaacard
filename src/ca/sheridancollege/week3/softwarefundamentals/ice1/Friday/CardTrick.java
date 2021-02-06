@@ -9,7 +9,8 @@ public class CardTrick {
     public static void main(String[] args)
     {
        
-        
+      Card cardA = new Card();
+      
     }
     
 }
